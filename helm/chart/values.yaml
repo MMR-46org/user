@@ -1,0 +1,4 @@
+component: user
+service:
+  port: 80
+  containerPort: 8080
